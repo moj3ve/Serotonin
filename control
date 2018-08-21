@@ -1,0 +1,9 @@
+Package: com.jeffresc.serotonin
+Name: Serotonin
+Depends: com.matchstic.xenhtml
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: A time theme for XenHTML based on Serotonin
+Maintainer: JeffResc
+Author: JeffResc
+Section: Widgets
